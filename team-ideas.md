@@ -10,6 +10,6 @@
 
 - Minimum Viable Product (MVP) definition: Start with a list of comment words, click on the page with a brief description, then hover your mouse to reveal answers. Each team member could be responsible for a linked page could have their own multiple choice quiz page that keeps score for players.
 
-- What is the minimum required for you to present on your demo day? A template website with one master game with questions and answers.  The following pages could be designed by each team member.
+- What is the minimum required for you to present on your demo day? A template website with one master game with multiple choice questions and answers.  The following link pages could be designed by each team member.
 
 ## let projectIdea2 === projectIdea1
