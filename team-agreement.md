@@ -2,6 +2,8 @@
 
 - Team Members: Alex Carr, Nick Brown, Chris Foster, Jennifer Dotson
 
+- [Link to Team Agreement](https://github.com/4cupsofjava/project-prep)
+
 ## What are the key strengths of each person on the team?
 
 - Alex Carr: time management, goal oriented, great team member, css
@@ -76,4 +78,4 @@ Knowing that every person in your team needs to understand all aspects of the pr
 
 - What project management tool will be used? github project management
 
-## Presentation Deck link https://docs.google.com/presentation/d/1GPNYcrSxZkI_fNayFP9Ctc24oAHa451ayEDNEbEiFMI/edit?usp=sharing
+### Presentation Deck link https://docs.google.com/presentation/d/1GPNYcrSxZkI_fNayFP9Ctc24oAHa451ayEDNEbEiFMI/edit?usp=sharing
