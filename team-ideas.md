@@ -12,4 +12,4 @@
 
 - What is the minimum required for you to present on your demo day? A template website with one master game with multiple choice questions and answers.  The following link pages could be designed by each team member.
 
-## let projectIdea2 === projectIdea1
+## let projectIdea2 = projectIdea1
